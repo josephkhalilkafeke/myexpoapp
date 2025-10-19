@@ -1,3 +1,6 @@
+// This is my first comment to commit on github
+
+
 import React from 'react';
 import { Alert, Button, Image, ScrollView, StyleSheet, Text, View } from 'react-native';
 
