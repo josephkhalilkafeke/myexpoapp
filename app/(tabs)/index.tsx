@@ -1,4 +1,6 @@
 // This is my first comment to commit on github
+// my name for commit - Joseph Khalil Kafeke
+// Third commit cprg mobile application assigment
 
 
 import React from 'react';
