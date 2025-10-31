@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "my-app",
-    "slug": "my-app",
+    "name": "mobile-application-instagram-assignment",
+    "slug": "mobile-application-instagram-assignment",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "mobileapplicationinstagramassignment",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
